@@ -9,13 +9,13 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> "Sigue adelante. Recuerda por qué comenzaste."
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Todo comenzo..** cuando vi un post en una pagina y ahi es cuando encontre que Microsoft estaba
+dando una beca para poder certificarte en </br> AZ-900, asi comenze mi camino en el mundo Tech y la tecnologia.</br>
+Yo soy Ingeniero Eléctrico y en proceso de titulación, la pandemia afecto la vida cotidiana y ahi es donde 
+entra la tecnologia ya que es necesaria para poder realizar determinadas tareas. Por lo que el Cloud es una 
+rama interesante hoy en dia y me gustaria especializarme en eso, se que no sera facil pero si no lo intentas 
+nunca tendras esa referencia.
 
+**Gracias por leer esto y espero que esta comunidad siga creciendo**
