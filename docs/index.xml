@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Omar Trujillo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://mazinoxx.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mazinoxx.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi camino en LaunchX</title>
+      <link>https://mazinoxx.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mazinoxx.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Esto es yn recuento de lo que me ha dejado LaunchX
+ Manejo de versiones en git y github Introducción a Phyton El uso de Figma Maquetación en HTML Manejo y aplicación de hojas de estilo CSS Implementacion de fetch en JS Buenas practicas y un buen ambiente Un gran acompañamiento por parte de los MC´s  Gracias por leer y a Inovaccion Virtual.</description>
+    </item>
+    
     <item>
       <title>La Cultura de un Desarrollad@r de Software</title>
       <link>https://mazinoxx.github.io/my_launchx_blog/posts/intro/</link>
